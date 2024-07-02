@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Thripura24
+- 👋 Hi, I’m Thripura
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Analytics
-- 💞️ I’m looking to collaborate on projects...
+- 🌱 I’m passionate about Data and Business.
+- 💞️ I’m open to collaborating on projects.
 
 <!---
 Thripura24/Thripura24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
