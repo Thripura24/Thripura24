@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Thripura
-- 👀 I’m interested in Data Science
 - 🌱 I’m passionate about Data and Business.
 - 💞️ I’m open to collaborating on projects.
 
